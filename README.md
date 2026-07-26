@@ -105,3 +105,19 @@ Python Developer | Software Developer
 
 LinkedIn:
 www.linkedin.com/in/harishkavati
+
+-----------------------------------------------------------------------------------
+
+## 📸 Project Screenshots
+
+### 👨‍💼 Owner Panel
+![Owner Panel](outputscreens/owner-panel.png)
+
+### 🍽️ Manage Items
+![Manage Items](outputscreens/manage-items.png)
+
+### 🛒 User Panel & Cart
+![User Panel & Cart](outputscreens/user-panel-cart.png)
+
+### 💳 Payment & Order Success
+![Payment & Order Success](outputscreens/payment-order-success.png)
